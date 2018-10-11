@@ -1,0 +1,38 @@
+1. Sum of Two Numbers
+2. Area of Circle
+3. Simple Interest
+4. Perimeter and Area of Rectangle
+5. Celsius to Fahrenheit 
+6. Swapping 
+7. Swapping without Temporary Variable
+8. largest of two numbers 
+9. Largest of three numbers 
+10. Even or odd 
+11. Divisible by three 
+12. Quadratic equations
+13. Largest of n numbers
+14. Natural numbers up to ‘n’
+15. Sum of ‘n’ numbers 
+16. Factorial of a number
+17. Sum of digits of a number 
+
+18. Even numbers from 50 to 2 
+19. Count of digits in a number 
+20. Reverse of number 
+21. Armstrong or not 
+22. Prime or not 
+23. Armstrong number in a given range 
+24. Prime numbers in a given range 
+25. Fibonacci sequence 
+26. Display the pattern
+	*
+	*	*
+	*	*	*
+
+27. Display the pattern 
+
+	1
+
+	2	3
+	
+	4	5	6

@@ -1,5 +1,7 @@
 # KTU-S1-S2-CS-IT-Python_C-programs
-- All the programs and code for KTU S1/S2 CS/IT Programs. 
+
+For a Better Understanding Of Python go to **Siddharth Prajosh(@sprajosh)**'s Repo *[Python tutorials for beginners](https://github.com/sprajosh/basic-python)*
+> All the programs and code for KTU S1/S2 CS/IT Programs. 
 - The codes for S1 are in Python while for S2 is in C
 
 - For Downloading the Repository,

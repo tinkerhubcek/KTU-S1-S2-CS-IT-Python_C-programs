@@ -1,13 +1,13 @@
 # KTU-S1-S2-CS-IT-Python_C-programs
 
 For a Better Understanding Of Python go to **Siddharth Prajosh(@sprajosh)**'s Repo *[Python tutorials for beginners](https://github.com/sprajosh/basic-python)*
-> All the programs and code for KTU S1/S2 CS/IT Programs. 
-- The codes for S1 are in Python while for S2 is in C
+### All the programs and code for KTU S1/S2 CS/IT Programs.  
+The codes for S1 are in Python while for S2 is in C
 
 - For Downloading the Repository,
 >  `git clone https://github.com/cek-freshers-club/KTU-S1-S2-CS-IT-Python_C-programs.git `
 
-[The List of Programs Are Here](Python%20Programmes/List%20of%20Programs.txt)
+[The List of Programs Are Here](Python%20Programmes/List%20of%20Programs.txt):point_left:
 
 1. [Program of sum of 2 numbers](Python%20Programmes/sum_2_nos.py)
 2. [Program for finding Area of a Circle](Python%20Programmes/area_circle.py)

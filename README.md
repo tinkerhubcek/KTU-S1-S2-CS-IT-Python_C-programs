@@ -9,8 +9,8 @@ The codes for S1 are in Python while for S2 is in C
 
 [The List of Programs Are Here](Python%20Programmes/List%20of%20Programs.txt):point_left:
 
-1. [Program of sum of 2 numbers](Python%20Programmes/sum_2_nos.py)
-2. [Program for finding Area of a Circle](Python%20Programmes/area_circle.py)
+1. [Program of sum of 2 numbers](Python%20Programmes/1_sum_of_two_numbers.py)
+2. [Program for finding Area of a Circle](Python%20Programmes/2_Area_of_circle.py)
 3. [Program for Finding The Simple Interset](Python%20Programmes/3_simple_interest.py)
 4. [Program for Finding The Area and Perimeter of A Rectangle ](Python%20Programmes/4_rectangle.py)
 5. [Program for converting Celcius temp to Fahrenheit temp](Python%20Programmes/5_Celcius_2_Fahren_.py)

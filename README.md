@@ -18,9 +18,9 @@ The codes for S1 are in Python while for S2 is in C
 7. [Program to Swap two Numbers with a Temporary Variable](Python%20Programmes/7_Swap_Using_temp_var.py)
 8. [Program to Find the Maximum of Two Given Numbers](Python%20Programmes/8_max_of_two_nos.py)
 9. [Program to find the Maximum of Three Given Numbers](Python%20Programmes/9_max_of_3_nos.py)
-10. [Program to Check whether a given Number is Even or Odd](Python%20Programmes/11_even_odd.py)
+10. [Program to Check whether a given Number is Even or Odd](Python%20Programmes/10_even_odd.py)
 11. [Program to Check Whether a Given Number is Divisible By 2 or 3](Python%20Programmes/11_divisible_by_2_or_3.py)
 12. [Program to find The Roots of a Quadratic Equation](Python%20Programmes/12_roots_of_quad_eq.py)
-13. [Program to Find the Largest of 'n' Given Numbers](Python%20Programmes/13_largest_of_n.py)
+13. [Program to Find the Largest of 'n' Given Numbers](Python%20Programmes/13_largest_of_n_numbers.py)
 
 Created With :heart: by CEK

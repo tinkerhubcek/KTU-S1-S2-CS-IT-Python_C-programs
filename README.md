@@ -1,12 +1,13 @@
 # KTU-S1-S2-CS-IT-Python_C-programs
-
-
+***
+For a Better Understanding Of Python go to **Siddharth Prajosh(@sprajosh)**'s Repo *[Python tutorials for beginners](https://github.com/sprajosh/basic-python)*
+***
 ### All the programs and code for KTU S1/S2 CS/IT Programs.  
 The codes for S1 are in Python while for S2 is in C
-
+***
 - For Downloading the Repository,
 >  `git clone https://github.com/cek-freshers-club/KTU-S1-S2-CS-IT-Python_C-programs.git `
-
+___
 [The List of Programs Are Here](Python%20Programmes/List%20of%20Programs.txt):point_left:
 
 1. [Program of sum of 2 numbers](Python%20Programmes/1_sum_of_two_numbers.py)
@@ -22,5 +23,16 @@ The codes for S1 are in Python while for S2 is in C
 11. [Program to Check Whether a Given Number is Divisible By 2 or 3](Python%20Programmes/11_divisible_by_2_or_3.py)
 12. [Program to find The Roots of a Quadratic Equation](Python%20Programmes/12_roots_of_quad_eq.py)
 13. [Program to Find the Largest of 'n' Given Numbers](Python%20Programmes/13_largest_of_n_numbers.py)
-
+14. []
+15. 
+16. [Program to find Factorial of a Number](Python%20Programmes/16_factorial_of_a_number.py)
+17. 
+18. [Program to Print Even Numbers for 50 to 2](Python%20Programmes/18_Even_numbers_from_50_to_2.py)  
+19. 
+20. 
+21. [Program to Chcek if a Given Number is Armstrong or Not.](Python%20Programmes/21_Armstrong_or_not.py)
+22. [Program ]
+23. [Program to Find Armstrong Numbers in a given Range](Python%20Programmes/23_Armstrong_number_in_a_given_range.py)
+24. 
+25. [Program to Print the Fibbonacci Sequence](Python%20Programmes/25_fibonacci_sequence.py)
 Created With :heart: by CEK

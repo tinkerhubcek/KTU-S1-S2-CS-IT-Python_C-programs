@@ -24,7 +24,7 @@ ___
 12. [Program to find The Roots of a Quadratic Equation](Python%20Programmes/12_roots_of_quad_eq.py)
 13. [Program to Find the Largest of 'n' Given Numbers](Python%20Programmes/13_largest_of_n_numbers.py)
 14. [Program to print Natural Numbers upto 'n'](Python%20Programmes/15_Sum_of_n_numbers.py)
-15. [Program to print sum of 'n' numbers](Python%20Programmes/16_Sum_of_n_numbers.py)
+15. [Program to print sum of 'n' numbers](Python%20Programmes/15_Sum_of_n_numbers.py)
 16. [Program to find Factorial of a Number](Python%20Programmes/16_factorial_of_a_number.py)
 17. [Program to print sum of Digits of a Number](Python%20Programmes/17_Sum_of_digits_of_a_number.py)
 18. [Program to Print Even Numbers for 50 to 2](Python%20Programmes/18_Even_numbers_from_50_to_2.py)  

@@ -28,13 +28,14 @@ ___
 16. [Program to find Factorial of a Number](Python%20Programmes/16_factorial_of_a_number.py)
 17. [Program to print sum of Digits of a Number](Python%20Programmes/17_Sum_of_digits_of_a_number.py)
 18. [Program to Print Even Numbers for 50 to 2](Python%20Programmes/18_Even_numbers_from_50_to_2.py)  
-19. [Program to print The count of Digits of a Number](Python%20Programmes/19_Count_of_digits_of_a_number.py)
-20. [Program to Print Reverse of a number](Python%20Programmes/20_Reverse_of_a_number.py)
-21. [Program to Chcek if a Given Number is Armstrong or Not.](Python%20Programmes/21_Armstrong_or_not.py)
+19. [Program to print The count of Digits of a Number](Python%20Programmes/19_Count_of_digits_in_a_number.py)
+20. [Program to Print Reverse of a number](Python%20Programmes/20_Reverse_of_number.py)
+21. [Program to Check if a Given Number is Armstrong or Not.](Python%20Programmes/21_Armstrong_or_not.py)
 22. [Program to check if a number is Prime or Not](Python%20Programmes/22_Prime_or_not.py)
 23. [Program to Find Armstrong Numbers in a given Range](Python%20Programmes/23_Armstrong_number_in_a_given_range.py)
 24. [Program to Print Prime Numbers n a Given Range](Python%20Programmes/24_Prime_numbers_in_a_given_range.py)
 25. [Program to Print the Fibbonacci Sequence](Python%20Programmes/25_fibonacci_sequence.py)   
-
+26. [Program to Print Pattern in Asterisk](Python%20Programmes/26_pattern_*.py)
+27. [Program to Print a Pattern in numbers](Python%20Programmes/27_pattern_num.py)     
 Created With :heart: by Abhinav Prasad(@abhinavprasad47) & Athul Cyriac Ajay(@Athul-CA)  
                 College OF Engineering,Kidangoor

@@ -8,6 +8,8 @@ The codes for S1 are in Python while for S2 is in C
 - For Downloading the Repository,
 >  `git clone https://github.com/cek-freshers-club/KTU-S1-S2-CS-IT-Python_C-programs.git `
 ___
+You can Find The Algorithms and Flowcharts [here](/Algorithm-Flowcharts/)
+___
 [The List of Programs Are Here](Python%20Programmes/List%20of%20Programs.txt):point_left:
 
 1. [Program of sum of 2 numbers](Python%20Programmes/1_sum_of_two_numbers.py)

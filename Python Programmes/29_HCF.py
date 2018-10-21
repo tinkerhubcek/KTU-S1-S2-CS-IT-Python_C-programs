@@ -8,5 +8,5 @@ def hcf(x,y):
             hcf=i
     return hcf
 a=int(input("Enter the 1st Number: "))    
-b=int(input("Enetr the 2nd Number: "))
+b=int(input("Enter the 2nd Number: "))
 print(hcf(a,b))    

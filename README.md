@@ -39,5 +39,8 @@ ___
 25. [Program to Print the Fibbonacci Sequence](Python%20Programmes/25_fibonacci_sequence.py)   
 26. [Program to Print Pattern in Asterisk](Python%20Programmes/26_pattern_*.py)
 27. [Program to Print a Pattern in numbers](Python%20Programmes/27_pattern_num.py)     
-Created With :heart: by Abhinav Prasad(@abhinavprasad47) & Athul Cyriac Ajay(@Athul-CA)  
+28. [Program To make a simple Calculator using Python](Python%20Programmes/28_calculator.ipynb)  
+29. [Program to Find HCF of Two Numbers](Python%20Programmes/29_HCF.py)
+___
+Created With :heart: by Abhinav Prasad(@abhinavprasad47) &    Athul Cyriac Ajay(@Athul-CA)  
                 College OF Engineering,Kidangoor

@@ -6,9 +6,7 @@ For a Better Understanding Of Python go to **Siddharth Prajosh(@sprajosh)**'s Re
 The codes for S1 are in Python while for S2 is in C
 ***
 - For Downloading the Repository,
->  `git clone https://github.com/cek-freshers-club/KTU-S1-S2-CS-IT-Python_C-programs.git `
-___
-You can Find The Algorithms and Flowcharts [here](/Algorithm-Flowcharts_Python/)
+>  `git clone https://github.com/cek-freshers-club/KTU-S1-S2-CS-IT-Python_C-programs.git ` 
 ___
 [The List of Programs Are Here](Python%20Programmes/List%20of%20Programs.txt):point_left:
 

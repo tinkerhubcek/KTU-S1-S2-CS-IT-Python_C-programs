@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main(){
+float a,b,c,avg;
+printf("Enter the first Number:\n");
+scanf("%d",&a);
+printf("Enter the second Number:\n");
+scanf("%d",&b);
+printf("Enter the third  Number:\n");
+scanf("%d",&c);
+printf("Enter the first Number:");
+scanf("%d",&a);
+
+
